@@ -18,11 +18,11 @@ Also I've recorded [tutorial about Java basics](https://www.youtube.com/watch?v=
 Check out my [LinkedIn profile](https://www.linkedin.com/in/cezary-sanecki/).
 
 ## Projects:
-- ✅ (Monitoring marine units)[https://github.com/cezarysanecki/monitoring-marine-units]
-- ❌ (Animal shelter)[https://github.com/cezarysanecki/animal-shelter]
-- ✅ (Memory game)[https://github.com/cezarysanecki/memory-game]
-- ⭐ (Presentations)[https://github.com/cezarysanecki/presentations]
-- ⚒️ (Parking domain)[https://github.com/cezarysanecki/parking-domain]
+- ✅ [Monitoring marine units](https://github.com/cezarysanecki/monitoring-marine-units)
+- ❌ [Animal shelter](https://github.com/cezarysanecki/animal-shelter)
+- ✅ [Memory game](https://github.com/cezarysanecki/memory-game)
+- ⭐ [Presentations](https://github.com/cezarysanecki/presentations)
+- ⚒️ [Parking domain](https://github.com/cezarysanecki/parking-domain)
 
 ## Trivia:
 - 💻 I’m currently working in Decerto as Tech Leader
