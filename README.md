@@ -25,7 +25,7 @@ Check out my [LinkedIn profile](https://www.linkedin.com/in/cezary-sanecki/).
 - ⚒️ [Parking domain](https://github.com/cezarysanecki/parking-domain)
 
 ## Trivia:
-- 💻 I’m currently working in Decerto as Tech Leader
+- 💻 I’m currently working in Allegro as Software Engineer
 - 🌱 I’m currently learning staff about architecture and DDD
 - 💬 Ask me any question, I will try to help you!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cezary-sanecki/), [Email](mailto:saneckicezary@gmaik.com)
