@@ -18,6 +18,7 @@ Also I've recorded [tutorial about Java basics](https://www.youtube.com/watch?v=
 Check out my [LinkedIn profile](https://www.linkedin.com/in/cezary-sanecki/).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cezarysanecki&theme=dracula&exclude_repo=academic-projects)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cezarysanecki&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects:
