@@ -1,34 +1,25 @@
-<h1 align="center">👋 Hello, I'm Cezary Sanecki 👋</h1>
+# Cezary Sanecki
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/cezary-sanecki/">LinkedIn</a> •
-  <a href="https://cezarysanecki.pl/?utm_source=github_profile">Blog 🇵🇱</a>
-  <br />
-</p>
+Zajmuję się jakością i kosztem agentów AI w wytwarzaniu oprogramowania.
 
-I'm ex-civil engineer who changed his "career" to be a programmer. I am working in JVM ecosystem, mostly as Java Developer.
-I am very into architecture and refactoring topics. That's why I share my knowledge about these topics on 
-[my blog (it's in Polish)](https://cezarysanecki.pl/?utm_source=github_profile).
+Pracuję jako Software Engineer w Allegro, w ekosystemie JVM. Pokazuję zespołom, jak sprawdzić, czy kod pisany z agentami AI jest wystarczająco dobry i ile naprawdę kosztuje. Prowadzę szkolenia i występuję na konferencjach z tematów architektury, refaktoryzacji i system design.
 
-I really love to teach others! I do it by giving speeches (beginner) and writing blog posts on my blog and on LinkedIn.
-Also I've recorded [tutorial about Java basics](https://www.youtube.com/watch?v=QR30MK4JIV8&t=3s&ab_channel=DevCezz) (also in Polish).
+Zanim zostałem programistą, byłem inżynierem budownictwa. Stąd nawyk patrzenia na kod razem z biznesem i organizacją, która go utrzymuje.
 
-🛡️ My mission: <strong>To make all programmers write better code.</strong> 
+## Gdzie mnie znaleźć
 
-Check out my [LinkedIn profile](https://www.linkedin.com/in/cezary-sanecki/).
+- [cezarysanecki.pl](https://cezarysanecki.pl/?utm_source=github_profile) — szkolenia, wystąpienia, blog
+- [Ponad Kodem](https://ponadkodem.pl/?utm_source=github_profile) — kod, architektura, biznes i AI dla programistów
+- [YouTube](https://www.youtube.com/@cezarysaneckiponadkodem)
+- [LinkedIn](https://www.linkedin.com/in/cezary-sanecki/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cezarysanecki&theme=dracula&exclude_repo=academic-projects)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cezarysanecki&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+## Projekty
 
-## Projects:
-- ✅ [Monitoring marine units](https://github.com/cezarysanecki/monitoring-marine-units)
-- ❌ [Animal shelter](https://github.com/cezarysanecki/animal-shelter)
-- ✅ [Memory game](https://github.com/cezarysanecki/memory-game)
-- ⭐ [Presentations](https://github.com/cezarysanecki/presentations)
-- ⚒️ [Parking domain](https://github.com/cezarysanecki/parking-domain)
+- [Parking domain](https://github.com/cezarysanecki/parking-domain) — modelowanie domeny parkingu, w toku
+- [Monitoring marine units](https://github.com/cezarysanecki/monitoring-marine-units) — śledzenie jednostek morskich
+- [Memory game](https://github.com/cezarysanecki/memory-game) — gra pamięciowa
+- [Presentations](https://github.com/cezarysanecki/presentations) — materiały z moich wystąpień
 
-## Trivia:
-- 💻 I’m currently working in Allegro as Software Engineer
-- 🌱 I’m currently learning staff about architecture and DDD
-- 💬 Ask me any question, I will try to help you!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cezary-sanecki/), [Email](mailto:saneckicezary@gmaik.com)
+## Kontakt
+
+Szukasz szkolenia albo wystąpienia o jakości i koszcie agentów AI? Napisz na [LinkedIn](https://www.linkedin.com/in/cezary-sanecki/).
