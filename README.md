@@ -17,6 +17,7 @@ Before I became a programmer, I was a civil engineer. That's where my habit come
 
 ## Projects
 
+- [Agent eval gate](https://github.com/cezarysanecki/agent-eval-gate) — a Langfuse-traced eval that blocks AI agent prompt regressions before push and in CI
 - [Parking domain](https://github.com/cezarysanecki/parking-domain) — domain modeling of a parking lot, 100-commit contest
 - [System Design in Practice](https://cezarysanecki.github.io/system-design-talk-atm-eng/) — conference talk deck
 - [Refactoring playground](https://github.com/cezarysanecki/refactoring-playground) — code from my refactoring and unit testing talks and workshops, a base for refactoring practice with or without AI
