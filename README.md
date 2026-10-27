@@ -1,4 +1,4 @@
-[![Cezary Sanecki, Ponad Kodem](assets/banner.png)](https://cezarysanecki.pl/?utm_source=github_profile)
+[![Cezary Sanecki — Quality and cost of AI agents in software development](assets/banner.png)](https://cezarysanecki.pl/?utm_source=github_profile)
 
 # Cezary Sanecki
 
@@ -10,9 +10,9 @@ Before I became a programmer, I was a civil engineer. That's where my habit come
 
 ## Where to find me
 
-- [cezarysanecki.pl](https://cezarysanecki.pl/?utm_source=github_profile) (in Polish) — trainings, talks, blog
-- [Ponad Kodem](https://ponadkodem.pl/?utm_source=github_profile) (in Polish) — code, architecture, business and AI for programmers
-- [YouTube](https://www.youtube.com/@cezarysaneckiponadkodem) (in Polish)
+- [cezarysanecki.pl](https://cezarysanecki.pl/?utm_source=github_profile) 🇵🇱 PL — trainings, talks, blog
+- [Ponad Kodem](https://ponadkodem.pl/?utm_source=github_profile) 🇵🇱 PL — code, architecture, business and AI for programmers
+- [YouTube](https://www.youtube.com/@cezarysaneckiponadkodem) 🇵🇱 PL
 - [LinkedIn](https://www.linkedin.com/in/cezary-sanecki/)
 
 ## Projects
