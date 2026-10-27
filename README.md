@@ -19,8 +19,7 @@ Before I became a programmer, I was a civil engineer. That's where my habit come
 
 - [Parking domain](https://github.com/cezarysanecki/parking-domain) — domain modeling of a parking lot, 100-commit contest
 - [System Design in Practice](https://cezarysanecki.github.io/system-design-talk-atm-eng/) — conference talk deck
-- [Refactoring legacy workshop](https://github.com/cezarysanecki/refactoring-legacy-workshop) — eight exercises in refactoring legacy code
-- [Unit testing revisited workshop](https://github.com/cezarysanecki/unit-testing-revisited-workshop) — from test basics to observable behavior and fakes
+- [Refactoring playground](https://github.com/cezarysanecki/refactoring-playground) — code from my refactoring and unit testing talks and workshops, a base for refactoring practice with or without AI
 - [Local Whisper](https://github.com/cezarysanecki/local-whisper) — native macOS app for offline Polish speech transcription
 - [Presentations](https://github.com/cezarysanecki/presentations) — code from my talks
 
