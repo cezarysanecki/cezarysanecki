@@ -1,3 +1,5 @@
+[![Cezary Sanecki, Ponad Kodem](assets/banner.png)](https://cezarysanecki.pl/?utm_source=github_profile)
+
 # Cezary Sanecki
 
 Zajmuję się jakością i kosztem agentów AI w wytwarzaniu oprogramowania.
