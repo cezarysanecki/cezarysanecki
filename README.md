@@ -1,4 +1,4 @@
-[![Cezary Sanecki — Quality and cost of AI agents in software development](assets/banner.png)](https://cezarysanecki.pl/?utm_source=github_profile)
+[![Cezary Sanecki — Quality and cost of AI agents in software development](assets/banner-ai-agents.png)](https://cezarysanecki.pl/?utm_source=github_profile)
 
 # Cezary Sanecki
 
